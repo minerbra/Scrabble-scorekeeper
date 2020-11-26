@@ -21,7 +21,7 @@ letter_score = {"A": 1, "B": 3, "C": 3, "D": 2, "E": 1, "F": 4,
 
 word_scores = {}  # Store the words and score in a dictionary
 
-with open('1030 Project 04 01 Words.txt') as f:  # Open and close file
+with open('Words.txt') as f:  # Open and close file
 
     lines = f.readlines()  # Read file content line by line
 
