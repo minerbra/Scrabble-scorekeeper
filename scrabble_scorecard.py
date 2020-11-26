@@ -1,8 +1,5 @@
 """
 
-Project 4
-CS 1030
-
 @Author: Brady Miner
 
 This program will calculate the score of Scrabble words from a file.
